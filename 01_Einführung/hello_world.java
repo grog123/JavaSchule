@@ -1,7 +1,8 @@
-# Einführung Github
-## Erstes Java Programm
+import javax.swing.JFrame;
 
-````Java
+/**
+ * hello_world
+ */
 public class hello_world {
 
     public static void main(String[] args) {
@@ -11,4 +12,3 @@ public class hello_world {
         f.setVisible(true);
     }
 }
-````
